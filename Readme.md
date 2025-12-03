@@ -53,4 +53,3 @@ Backend
 📤 Multer / Cloudinary (for product images)
 
 🌍 CORS + helmet (security)
-///
